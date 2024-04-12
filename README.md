@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanNguyen17112003?tab=repositories](https://github.com/TanNguyen17112003?tab=repositories)
 
-- 💬 Ask me about **React, Angular and NoSQL Database**
+- 💬 Ask me about **React, Angular and RDBMS and NoSQL Database**
 
 - 📫 How to reach me **duytan17112003@gmail.com**
 
 - ⚡ Fun fact **I always want to learn and get knowledge from lots of talented developers.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.facebook.com/tan.nguyenhoangduy.374">Facebook</a></h3>
 <p align="left">
 </p>
 
